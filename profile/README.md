@@ -14,7 +14,7 @@ Solsolution is an innovative project designed to provide comprehensive solutions
 To get started with Solsolution, follow these simple installation steps:
 
 ```bash
-git clone https://github.com/solsolution/solsolution.git
+git clone https://github.com/solsolution/solution.git
 cd solsolution
 # Follow specific installation instructions for your environment
 
